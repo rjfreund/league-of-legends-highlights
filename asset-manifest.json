@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/league-of-legends-highlights/static/css/main.073c9b0a.css",
+    "main.js": "/league-of-legends-highlights/static/js/main.c1661003.js",
+    "static/js/787.a547704f.chunk.js": "/league-of-legends-highlights/static/js/787.a547704f.chunk.js",
+    "static/media/logo.svg": "/league-of-legends-highlights/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/league-of-legends-highlights/index.html",
+    "main.073c9b0a.css.map": "/league-of-legends-highlights/static/css/main.073c9b0a.css.map",
+    "main.c1661003.js.map": "/league-of-legends-highlights/static/js/main.c1661003.js.map",
+    "787.a547704f.chunk.js.map": "/league-of-legends-highlights/static/js/787.a547704f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c1661003.js"
+  ]
+}
